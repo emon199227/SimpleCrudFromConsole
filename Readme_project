@@ -1,0 +1,7 @@
+Crud operation between java and mysql
+Step -1: create a java project 
+Step -2: make sure well packaging
+Step -3: create a connection class name Dbconnection class 
+Step -4: create domain class student
+Step -5: Create a Dao (Data Access Object) interface : name :: StudentDao
+Step -6: Create a Service class :: StudentService
